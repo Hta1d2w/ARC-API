@@ -1,7 +1,9 @@
 {
-  "TOKEN": "mN8x3pQv9R2bL7fS1tZ6yD4kA0wG5eH9uJ3oV2cB8qP6rF1sT4lK7nM0aX5zE",
-  "config": {
-    "disableEmotes": false,
-    "maxPlayers": 32
+  "authValues": {
+    "UserId": "123456789",
+    "AuthType": 255,
+    "AuthPostData": {
+      "token": "dummyToken123456789abcdef"
+    }
   }
 }
