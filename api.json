@@ -1,9 +1,9 @@
 {
-  "authValues": {
-    "UserId": "123456789",
-    "AuthType": 255,
-    "AuthPostData": {
-      "token": "dummyToken123456789abcdef"
+     UserId = User.Me.Id.ToString();
+    AuthType = (CustomAuthenticationType)255;
+    hashtable = new Hashtable();
+    ("token", "dummyToken123456789abcdef");
+    AuthPostData = hashtable;
     }
   }
 }
